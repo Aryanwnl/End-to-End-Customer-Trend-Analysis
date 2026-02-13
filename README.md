@@ -10,6 +10,14 @@ The dashboard enables decision-makers to evaluate subscription performance, cate
 
 ---
 
+## 🖥 Dashboard Preview
+
+<p align="center">
+  <img src="dashboard_preview.png" width="900">
+</p>
+
+---
+
 # 🎯 Business Problem
 
 Retail organizations generate significant transactional data but often lack:
